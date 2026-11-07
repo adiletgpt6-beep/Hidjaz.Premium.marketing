@@ -1,0 +1,75 @@
+{
+ "duration": 29.0,
+ "bed_db": -45,
+ "events": [
+  {
+   "type": "impact",
+   "t": 0.0,
+   "db": -24
+  },
+  {
+   "type": "whoosh",
+   "t": 1.08,
+   "db": -34,
+   "pan": -0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 5.27,
+   "db": -34,
+   "pan": -0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 7.75,
+   "db": -34,
+   "pan": 0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 11.6,
+   "db": -34,
+   "pan": 0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 13.45,
+   "db": -34,
+   "pan": -0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 14.45,
+   "db": -34,
+   "pan": 0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 15.49,
+   "db": -34,
+   "pan": -0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 19.87,
+   "db": -34,
+   "pan": -0.3
+  },
+  {
+   "type": "whoosh",
+   "t": 23.02,
+   "db": -34,
+   "pan": -0.3
+  },
+  {
+   "type": "impact",
+   "t": 26.1,
+   "db": -30
+  },
+  {
+   "type": "shimmer",
+   "t": 26.15,
+   "db": -33
+  }
+ ]
+}

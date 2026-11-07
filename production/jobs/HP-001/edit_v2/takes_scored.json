@@ -1,0 +1,558 @@
+{
+ "L1": [
+  {
+   "take": [
+    16.5,
+    22.4
+   ],
+   "text": "А вы когда -нибудь задумывались, какой подарок действительно принесет пользу вашему близкому человеку?",
+   "match": 0.88,
+   "dur": 5.9,
+   "rate_wps": 2.2,
+   "max_pause": 0.5,
+   "sum_pause": 1.23,
+   "pitch_range_st": 10.2,
+   "asr_conf": 0.994,
+   "level_db": -26.2,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    79.9,
+    85.98
+   ],
+   "text": "Вы когда -нибудь задумывались, какой подарок действительно принесет пользу близкому человеку?",
+   "match": 0.783,
+   "dur": 6.08,
+   "rate_wps": 1.81,
+   "max_pause": 0.6,
+   "sum_pause": 1.73,
+   "pitch_range_st": 10.5,
+   "asr_conf": 0.993,
+   "level_db": -22.6,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    133.2,
+    139.56
+   ],
+   "text": "А вы когда -нибудь задумывались, какой подарок действительно принесет пользу вашему близкому человеку?",
+   "match": 0.88,
+   "dur": 6.36,
+   "rate_wps": 2.04,
+   "max_pause": 1.09,
+   "sum_pause": 1.88,
+   "pitch_range_st": 10.0,
+   "asr_conf": 0.994,
+   "level_db": -25.7,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    239.32,
+    248.14
+   ],
+   "text": "А вы когда -нибудь задумывались, какой подарок действительно принесет пользу вашему близкому человеку?",
+   "match": 0.88,
+   "dur": 8.82,
+   "rate_wps": 1.47,
+   "max_pause": 1.23,
+   "sum_pause": 3.43,
+   "pitch_range_st": 13.5,
+   "asr_conf": 0.957,
+   "level_db": -25.0,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    283.8,
+    290.7
+   ],
+   "text": "А вы когда -нибудь задумывались, какой подарок действительно принесет пользу вашему близкому человеку?",
+   "match": 0.88,
+   "dur": 6.9,
+   "rate_wps": 1.88,
+   "max_pause": 0.94,
+   "sum_pause": 2.51,
+   "pitch_range_st": 9.8,
+   "asr_conf": 0.995,
+   "level_db": -27.7,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    296.9,
+    305.2
+   ],
+   "text": "А вы когда -нибудь задумывались, какой подарок действительно принесет пользу вашему близкому человеку?",
+   "match": 0.88,
+   "dur": 8.3,
+   "rate_wps": 1.57,
+   "max_pause": 2.24,
+   "sum_pause": 3.38,
+   "pitch_range_st": 10.5,
+   "asr_conf": 0.967,
+   "level_db": -25.9,
+   "eye_contact": null
+  }
+ ],
+ "L2": [
+  {
+   "take": [
+    85.9,
+    90.12
+   ],
+   "text": "Представьте, вы дарите не просто книгу, а священную Куран.",
+   "match": 0.889,
+   "dur": 4.22,
+   "rate_wps": 2.13,
+   "max_pause": 0.61,
+   "sum_pause": 1.54,
+   "pitch_range_st": 10.6,
+   "asr_conf": 0.917,
+   "level_db": -27.4,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    140.54,
+    144.02
+   ],
+   "text": "Представьте, вы дарите не просто книгу, а священный Куран.",
+   "match": 1.0,
+   "dur": 3.48,
+   "rate_wps": 2.59,
+   "max_pause": 0.7,
+   "sum_pause": 1.12,
+   "pitch_range_st": 11.5,
+   "asr_conf": 0.946,
+   "level_db": -27.4,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    170.6,
+    172.8
+   ],
+   "text": "Подарите не просто книгу, а священную пранку.",
+   "match": 0.5,
+   "dur": 2.2,
+   "rate_wps": 3.18,
+   "max_pause": 0,
+   "sum_pause": 0,
+   "pitch_range_st": 11.2,
+   "asr_conf": 0.877,
+   "level_db": -24.6,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    205.7,
+    210.3
+   ],
+   "text": "Представьте, вы дарите не просто книгу, а священный Куран.",
+   "match": 1.0,
+   "dur": 4.6,
+   "rate_wps": 1.96,
+   "max_pause": 0.53,
+   "sum_pause": 0.85,
+   "pitch_range_st": 3.5,
+   "asr_conf": 0.953,
+   "level_db": -40.0,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    248.7,
+    254.56
+   ],
+   "text": "Представьте, вы дарите не просто книгу, а священный руан.",
+   "match": 0.889,
+   "dur": 5.86,
+   "rate_wps": 1.54,
+   "max_pause": 0.92,
+   "sum_pause": 2.31,
+   "pitch_range_st": 13.6,
+   "asr_conf": 0.942,
+   "level_db": -33.1,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    305.2,
+    309.58
+   ],
+   "text": "Представьте, вы дарите не просто книгу, а священный Куран.",
+   "match": 1.0,
+   "dur": 4.38,
+   "rate_wps": 2.05,
+   "max_pause": 0.9,
+   "sum_pause": 1.65,
+   "pitch_range_st": 16.8,
+   "asr_conf": 0.903,
+   "level_db": -26.1,
+   "eye_contact": null
+  }
+ ],
+ "L3": [
+  {
+   "take": [
+    90.9,
+    93.84
+   ],
+   "text": "Подарок, к которому человек будет возвращаться снова и снова.",
+   "match": 1.0,
+   "dur": 2.94,
+   "rate_wps": 3.06,
+   "max_pause": 0.28,
+   "sum_pause": 0.28,
+   "pitch_range_st": 9.7,
+   "asr_conf": 0.978,
+   "level_db": -23.8,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    154.06,
+    157.32
+   ],
+   "text": "к которому человек будет возвращаться снова и снова.",
+   "match": 0.941,
+   "dur": 3.26,
+   "rate_wps": 2.45,
+   "max_pause": 0.31,
+   "sum_pause": 0.31,
+   "pitch_range_st": 15.0,
+   "asr_conf": 0.892,
+   "level_db": -24.7,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    173.56,
+    175.7
+   ],
+   "text": "Которому человек будет возвращаться снова и снова.",
+   "match": 0.875,
+   "dur": 2.14,
+   "rate_wps": 3.27,
+   "max_pause": 0.59,
+   "sum_pause": 0.59,
+   "pitch_range_st": 5.2,
+   "asr_conf": 0.928,
+   "level_db": -26.9,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    210.5,
+    214.22
+   ],
+   "text": "Подарок, к которому человек будет возвращаться снова и снова.",
+   "match": 1.0,
+   "dur": 3.72,
+   "rate_wps": 2.42,
+   "max_pause": 0,
+   "sum_pause": 0,
+   "pitch_range_st": 7.5,
+   "asr_conf": 0.978,
+   "level_db": -35.0,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    260.4,
+    266.6
+   ],
+   "text": "Подарок, к которому человек будет возвращаться снова и снова.",
+   "match": 1.0,
+   "dur": 6.2,
+   "rate_wps": 1.45,
+   "max_pause": 0.45,
+   "sum_pause": 1.48,
+   "pitch_range_st": 6.5,
+   "asr_conf": 0.965,
+   "level_db": -25.3,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    310.7,
+    314.8
+   ],
+   "text": "Подарок, к которому человек будет возвращаться снова и снова.",
+   "match": 1.0,
+   "dur": 4.1,
+   "rate_wps": 2.2,
+   "max_pause": 0.35,
+   "sum_pause": 0.35,
+   "pitch_range_st": 18.6,
+   "asr_conf": 0.974,
+   "level_db": -30.4,
+   "eye_contact": null
+  }
+ ],
+ "L4": [
+  {
+   "take": [
+    94.3,
+    98.64
+   ],
+   "text": "Для родителей, для любимых, для самых дорогих людей.",
+   "match": 1.0,
+   "dur": 4.34,
+   "rate_wps": 1.84,
+   "max_pause": 0.63,
+   "sum_pause": 1.28,
+   "pitch_range_st": 9.2,
+   "asr_conf": 0.988,
+   "level_db": -26.6,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    157.5,
+    161.44
+   ],
+   "text": "Для родителей, для любимых, для самых дорогих людей",
+   "match": 1.0,
+   "dur": 3.94,
+   "rate_wps": 2.03,
+   "max_pause": 0.68,
+   "sum_pause": 1.06,
+   "pitch_range_st": 16.5,
+   "asr_conf": 0.984,
+   "level_db": -27.9,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    175.7,
+    178.1
+   ],
+   "text": "для родителей, для любимых, для самых дорогих людей.",
+   "match": 1.0,
+   "dur": 2.4,
+   "rate_wps": 3.33,
+   "max_pause": 0.34,
+   "sum_pause": 0.34,
+   "pitch_range_st": 19.0,
+   "asr_conf": 0.927,
+   "level_db": -23.3,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    215.1,
+    218.96
+   ],
+   "text": "Для родителей, для любимых, для самых дорогих людей.",
+   "match": 1.0,
+   "dur": 3.86,
+   "rate_wps": 2.07,
+   "max_pause": 0.53,
+   "sum_pause": 1.06,
+   "pitch_range_st": 7.4,
+   "asr_conf": 0.977,
+   "level_db": -35.3,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    266.6,
+    270.32
+   ],
+   "text": "для родителей для любимых для самых",
+   "match": 0.857,
+   "dur": 3.72,
+   "rate_wps": 1.61,
+   "max_pause": 0.94,
+   "sum_pause": 1.66,
+   "pitch_range_st": 10.0,
+   "asr_conf": 0.821,
+   "level_db": -23.6,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    315.6,
+    320.34
+   ],
+   "text": "для родителей, для любимых, для самых близких людей.",
+   "match": 0.875,
+   "dur": 4.74,
+   "rate_wps": 1.69,
+   "max_pause": 1.0,
+   "sum_pause": 2.06,
+   "pitch_range_st": 16.6,
+   "asr_conf": 0.908,
+   "level_db": -28.2,
+   "eye_contact": null
+  }
+ ],
+ "L5": [
+  {
+   "take": [
+    99.3,
+    104.22
+   ],
+   "text": "Подарите то, что будет напоминать о вас с каждой прочитанной страницы.",
+   "match": 0.909,
+   "dur": 4.92,
+   "rate_wps": 2.24,
+   "max_pause": 0.43,
+   "sum_pause": 0.85,
+   "pitch_range_st": 8.2,
+   "asr_conf": 0.974,
+   "level_db": -30.0,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    161.8,
+    166.0
+   ],
+   "text": "Подарите то, что будет напоминать о вас с каждой прочитанной страницы.",
+   "match": 0.909,
+   "dur": 4.2,
+   "rate_wps": 2.62,
+   "max_pause": 0.39,
+   "sum_pause": 0.39,
+   "pitch_range_st": 7.6,
+   "asr_conf": 0.968,
+   "level_db": -29.4,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    178.2,
+    181.32
+   ],
+   "text": "подарите то, что будет напоминать о вас с каждой прочитанной страницы.",
+   "match": 0.909,
+   "dur": 3.12,
+   "rate_wps": 3.53,
+   "max_pause": 0.27,
+   "sum_pause": 0.27,
+   "pitch_range_st": 7.7,
+   "asr_conf": 0.957,
+   "level_db": -29.5,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    221.9,
+    225.68
+   ],
+   "text": "Подарите то, что будет напоминать о вас с каждой прочитанной страницы.",
+   "match": 0.909,
+   "dur": 3.78,
+   "rate_wps": 2.91,
+   "max_pause": 0.64,
+   "sum_pause": 0.64,
+   "pitch_range_st": 14.6,
+   "asr_conf": 0.958,
+   "level_db": -33.3,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    230.1,
+    232.54
+   ],
+   "text": "подарить что что будет напоминать о вас каждый",
+   "match": 0.526,
+   "dur": 2.44,
+   "rate_wps": 3.28,
+   "max_pause": 0.6,
+   "sum_pause": 0.6,
+   "pitch_range_st": 8.9,
+   "asr_conf": 0.804,
+   "level_db": -25.8,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    273.6,
+    278.42
+   ],
+   "text": "подарите то, что будет напоминать о вас с каждой прочитанной страницей.",
+   "match": 1.0,
+   "dur": 4.82,
+   "rate_wps": 2.28,
+   "max_pause": 0,
+   "sum_pause": 0,
+   "pitch_range_st": 9.2,
+   "asr_conf": 0.967,
+   "level_db": -26.9,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    333.6,
+    339.02
+   ],
+   "text": "Подарите то, что будет напоминать о вас с каждой прочитанной страницей.",
+   "match": 1.0,
+   "dur": 5.42,
+   "rate_wps": 2.03,
+   "max_pause": 0.39,
+   "sum_pause": 1.39,
+   "pitch_range_st": 18.6,
+   "asr_conf": 0.975,
+   "level_db": -27.8,
+   "eye_contact": null
+  }
+ ],
+ "L6": [
+  {
+   "take": [
+    104.7,
+    109.92
+   ],
+   "text": "Напишите нам в WhatsApp и мы подберем для вас подходящий ураган.",
+   "match": 0.909,
+   "dur": 5.22,
+   "rate_wps": 2.11,
+   "max_pause": 0.38,
+   "sum_pause": 0.67,
+   "pitch_range_st": 7.9,
+   "asr_conf": 0.89,
+   "level_db": -37.1,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    181.2,
+    185.42
+   ],
+   "text": "и напишите на WhatsApp, мы подберем для вас подходящий кран.",
+   "match": 0.667,
+   "dur": 4.22,
+   "rate_wps": 2.37,
+   "max_pause": 0.63,
+   "sum_pause": 0.63,
+   "pitch_range_st": 18.0,
+   "asr_conf": 0.714,
+   "level_db": -34.5,
+   "eye_contact": null
+  },
+  {
+   "take": [
+    339.7,
+    344.08
+   ],
+   "text": "Напишите нам в WhatsApp и мы подберем для вас подходящий план.",
+   "match": 0.909,
+   "dur": 4.38,
+   "rate_wps": 2.51,
+   "max_pause": 0.49,
+   "sum_pause": 1.28,
+   "pitch_range_st": 10.0,
+   "asr_conf": 0.859,
+   "level_db": -34.5,
+   "eye_contact": null
+  }
+ ]
+}

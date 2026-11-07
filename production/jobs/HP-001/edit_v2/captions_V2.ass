@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,84,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,1,0,1,3,5,5,60,60,0,1
+Style: Big,Inter Black,150,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,2,0,1,0,7,5,40,40,0,1
+Style: Chip,Inter Black,52,&H00101010,&H00101010,&H003DC1F2,&H003DC1F2,0,0,0,0,100,100,3,0,3,14,0,5,0,0,0,1
+Style: Brand,Cormorant Garamond SemiBold,156,&H003DC1F2,&H003DC1F2,&H00000000,&H96000000,0,0,0,0,100,100,3,0,1,0,4,5,0,0,0,1
+Style: Sub,Inter Black,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,2,0,1,0,3,5,0,0,0,1
+Style: Shape,Inter,20,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:00.50,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}А ВЫ\N{\c&H3DC1F2&}КОГДА-НИБУДЬ{\c&HFFFFFF&}
+Dialogue: 2,0:00:00.50,0:00:01.50,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ЗАДУМЫВАЛИСЬ,{\c&HFFFFFF&}
+Dialogue: 2,0:00:01.50,0:00:02.52,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}КАКОЙ {\c&H3DC1F2&}ПОДАРОК{\c&HFFFFFF&}
+Dialogue: 2,0:00:02.52,0:00:03.45,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ДЕЙСТВИТЕЛЬНО{\c&HFFFFFF&}\NПРИНЕСЁТ
+Dialogue: 2,0:00:03.45,0:00:04.03,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ПОЛЬЗУ{\c&HFFFFFF&}
+Dialogue: 2,0:00:04.03,0:00:05.70,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ВАШЕМУ {\c&H3DC1F2&}БЛИЗКОМУ{\c&HFFFFFF&}\NЧЕЛОВЕКУ?
+Dialogue: 2,0:00:05.70,0:00:06.51,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ПРЕДСТАВЬТЕ,{\c&HFFFFFF&}
+Dialogue: 2,0:00:06.51,0:00:06.80,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ВЫ {\c&H3DC1F2&}ДАРИТЕ{\c&HFFFFFF&}
+Dialogue: 2,0:00:06.80,0:00:08.12,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}НЕ ПРОСТО\N{\c&H3DC1F2&}КНИГУ,{\c&HFFFFFF&}
+Dialogue: 2,0:00:08.12,0:00:09.42,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}А СВЯЩЕННЫЙ\N{\c&H3DC1F2&}КОРАН.{\c&HFFFFFF&}
+Dialogue: 2,0:00:09.42,0:00:10.24,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ПОДАРОК,{\c&HFFFFFF&}
+Dialogue: 2,0:00:10.24,0:00:10.74,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}К КОТОРОМУ\N{\c&H3DC1F2&}ЧЕЛОВЕК{\c&HFFFFFF&}
+Dialogue: 2,0:00:10.74,0:00:11.86,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}БУДЕТ\N{\c&H3DC1F2&}ВОЗВРАЩАТЬСЯ{\c&HFFFFFF&}
+Dialogue: 2,0:00:15.83,0:00:16.08,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ДЛЯ {\c&H3DC1F2&}САМЫХ{\c&HFFFFFF&}
+Dialogue: 2,0:00:16.08,0:00:17.88,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ДОРОГИХ{\c&HFFFFFF&} ЛЮДЕЙ.
+Dialogue: 2,0:00:17.88,0:00:18.92,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}ПОДАРИТЕ{\c&HFFFFFF&} ТО,
+Dialogue: 2,0:00:18.92,0:00:19.72,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ЧТО БУДЕТ\N{\c&H3DC1F2&}НАПОМИНАТЬ{\c&HFFFFFF&}
+Dialogue: 2,0:00:19.72,0:00:19.98,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}О {\c&H3DC1F2&}ВАС{\c&HFFFFFF&}
+Dialogue: 2,0:00:19.98,0:00:20.64,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}С {\c&H3DC1F2&}КАЖДОЙ{\c&HFFFFFF&}
+Dialogue: 2,0:00:20.64,0:00:22.19,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ПРОЧИТАННОЙ\N{\c&H3DC1F2&}СТРАНИЦЕЙ.{\c&HFFFFFF&}
+Dialogue: 2,0:00:22.19,0:00:22.74,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}{\c&H3DC1F2&}НАПИШИТЕ{\c&HFFFFFF&} НАМ
+Dialogue: 2,0:00:22.74,0:00:23.45,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}В {\c&H3DC1F2&}WHATSAPP,{\c&HFFFFFF&}
+Dialogue: 2,0:00:23.45,0:00:24.02,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}И МЫ\N{\c&H3DC1F2&}ПОДБЕРЁМ{\c&HFFFFFF&}
+Dialogue: 2,0:00:24.02,0:00:24.68,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ДЛЯ {\c&H3DC1F2&}ВАС{\c&HFFFFFF&}
+Dialogue: 2,0:00:24.68,0:00:26.05,Cap,,0,0,0,,{\pos(540,1478)\fscx86\fscy86\t(0,110,\fscx100\fscy100)\fad(40,0)}ПОДХОДЯЩИЙ\N{\c&H3DC1F2&}КОРАН.{\c&HFFFFFF&}
+Dialogue: 3,0:00:11.95,0:00:13.80,Big,,0,0,0,,{\pos(540,811)\fs170\c&H3DC1F2&\fscx80\fscy80\t(0,140,\fscx100\fscy100)\fad(60,0)}СНОВА
+Dialogue: 3,0:00:12.46,0:00:13.80,Big,,0,0,0,,{\pos(540,989)\fs170\c&HFFFFFF&\fscx80\fscy80\t(0,140,\fscx100\fscy100)\fad(60,0)}И СНОВА
+Dialogue: 3,0:00:13.80,0:00:14.80,Big,,0,0,0,,{\pos(540,822)\fs150\c&HFFFFFF&\fscx80\fscy80\t(0,140,\fscx100\fscy100)\fad(60,0)}ДЛЯ
+Dialogue: 3,0:00:13.88,0:00:14.80,Big,,0,0,0,,{\pos(540,979)\fs150\c&H3DC1F2&\fscx80\fscy80\t(0,140,\fscx100\fscy100)\fad(60,0)}РОДИТЕЛЕЙ
+Dialogue: 3,0:00:14.80,0:00:15.84,Big,,0,0,0,,{\pos(540,822)\fs150\c&HFFFFFF&\fscx80\fscy80\t(0,140,\fscx100\fscy100)\fad(60,0)}ДЛЯ
+Dialogue: 3,0:00:14.88,0:00:15.84,Big,,0,0,0,,{\pos(540,979)\fs150\c&H3DC1F2&\fscx80\fscy80\t(0,140,\fscx100\fscy100)\fad(60,0)}ЛЮБИМЫХ
+Dialogue: 4,0:00:00.05,0:00:01.43,Chip,,0,0,0,,{\pos(540,330)\fad(80,80)\t(0,120,\fscx100\fscy100)\fscx90\fscy90}HIDJAZ PREMIUM
+Dialogue: 4,0:00:01.50,0:00:02.52,Chip,,0,0,0,,{\pos(540,330)\fad(80,80)\t(0,120,\fscx100\fscy100)\fscx90\fscy90}ПОДАРОК
+Dialogue: 4,0:00:08.16,0:00:09.40,Chip,,0,0,0,,{\pos(540,330)\fad(80,80)\t(0,120,\fscx100\fscy100)\fscx90\fscy90}СВЯЩЕННЫЙ КОРАН
+Dialogue: 4,0:00:22.24,0:00:23.37,Chip,,0,0,0,,{\pos(540,330)\fad(80,80)\t(0,120,\fscx100\fscy100)\fscx90\fscy90}WHATSAPP
+Dialogue: 3,0:00:26.25,0:00:29.00,Brand,,0,0,0,,{\pos(540,880)\fad(500,350)\blur0.5}Hidjaz Premium
+Dialogue: 3,0:00:26.55,0:00:29.00,Shape,,0,0,0,,{\pos(350,985)\1c&H3DC1F2&\fad(400,350)\p1}m 0 0 l 380 0 l 380 4 l 0 4{\p0}
+Dialogue: 3,0:00:26.75,0:00:29.00,Sub,,0,0,0,,{\pos(540,1060)\fad(400,350)}НАПИШИТЕ НАМ В {\c&H3DC1F2&}WHATSAPP
+Dialogue: 5,0:00:28.55,0:00:29.00,Shape,,0,0,0,,{\pos(0,0)\1c&H000000&\alpha&HFF&\t(0,450,\alpha&H00&)\p1}m 0 0 l 1080 0 l 1080 1920 l 0 1920{\p0}
