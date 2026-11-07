@@ -1,0 +1,1 @@
+highpass=f=75,afftdn=nr=6:nf=-58,equalizer=f=250:t=q:w=1.2:g=-1.5,equalizer=f=3500:t=q:w=1.5:g=1.5,deesser=i=0.3,acompressor=threshold=-24dB:ratio=2.5:attack=8:release=160:makeup=2|measured_I=-29.23:measured_TP=-8.83:measured_LRA=17.00:measured_thresh=-39.90:offset=3.37
