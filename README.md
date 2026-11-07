@@ -20,3 +20,7 @@ Existing Studio must be configured to allow this repository for the connected Gi
 
 ## Mandatory MOV to MP4 output
 Accept MOV and MP4 sources. When the input is MOV, preserve the original MOV in R2 and produce the final edited deliverable as .mp4 (H.264 video + AAC audio, yuv420p, faststart). Never simply rename the extension. Verify streams, duration, sync and playability with ffprobe/ffmpeg. Apply the same MP4 output requirement to other accepted source formats. Do not transcode the entire raw source unnecessarily; render the edited timeline directly to MP4.
+
+
+## Mandatory Studio delivery
+For every video processed via BalaGo Studio, Claude Code MUST read and follow [production/DELIVERY_RULES.md](production/DELIVERY_RULES.md). A job is not complete until verified MP4 playback and direct-download links are delivered and recorded. If secure delivery endpoints are missing, report this blocker; do not invent links.
