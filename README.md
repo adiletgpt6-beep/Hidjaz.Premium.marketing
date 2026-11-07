@@ -17,3 +17,6 @@ For each job save production/jobs/HP-XXX/STATUS.md with source reference (not ex
 
 ## Studio integration
 Existing Studio must be configured to allow this repository for the connected GitHub account. Check repo selection and issue creation before uploading a large file. Verify R2/broker retrieval end-to-end with a small test first.
+
+## Mandatory MOV to MP4 output
+Accept MOV and MP4 sources. When the input is MOV, preserve the original MOV in R2 and produce the final edited deliverable as .mp4 (H.264 video + AAC audio, yuv420p, faststart). Never simply rename the extension. Verify streams, duration, sync and playability with ffprobe/ffmpeg. Apply the same MP4 output requirement to other accepted source formats. Do not transcode the entire raw source unnecessarily; render the edited timeline directly to MP4.
