@@ -1,0 +1,97 @@
+{
+ "model": "Heliosoph/realistic-vision-cfg-onnx (Realistic Vision V6.0 B1 + sd-vae-ft-mse), CreativeML OpenRAIL-M; local CPU, onnxruntime",
+ "size": "512x896",
+ "runs": [
+  {
+   "scene": "parents",
+   "seed": 5,
+   "steps": 8,
+   "cfg": 6.5,
+   "sec": 185.8,
+   "file": "parents_5.png"
+  },
+  {
+   "scene": "family",
+   "seed": 505,
+   "steps": 20,
+   "cfg": 6.5,
+   "sec": 515.7,
+   "file": "family_505.png"
+  },
+  {
+   "scene": "family",
+   "seed": 606,
+   "steps": 20,
+   "cfg": 6.5,
+   "sec": 515.3,
+   "file": "family_606.png"
+  },
+  {
+   "scene": "hands",
+   "seed": 505,
+   "steps": 20,
+   "cfg": 6.5,
+   "sec": 534.3,
+   "file": "hands_505.png"
+  },
+  {
+   "scene": "hands",
+   "seed": 606,
+   "steps": 20,
+   "cfg": 6.5,
+   "sec": 526.3,
+   "file": "hands_606.png"
+  }
+ ],
+ "review": {
+  "parents_5.png": [
+   "rejected",
+   "pipeline test, 8 steps only"
+  ],
+  "gift_101.png": [
+   "ACCEPTED",
+   "hands passing a red gift box, warm window light; odd hand at right edge cropped out by framing"
+  ],
+  "gift_202.png": [
+   "rejected",
+   "young woman with bare legs: wrong context, immodest"
+  ],
+  "dawn_101.png": [
+   "rejected",
+   "shirtless man: inappropriate"
+  ],
+  "dawn_303.png": [
+   "rejected",
+   "open bathrobe, bare chest: inappropriate"
+  ],
+  "dawn_505.png": [
+   "rejected",
+   "odd wooden figurine; open pages read as pseudo-text"
+  ],
+  "dawn_606.png": [
+   "ACCEPTED",
+   "morning light by a window, open book with blurred pages, no legible pseudo-script"
+  ],
+  "parents_505.png": [
+   "ACCEPTED",
+   "elderly woman in a headscarf, warm gentle smile, clean face"
+  ],
+  "family_505.png": [
+   "rejected",
+   "single woman instead of a family; lamp merged into teapot"
+  ],
+  "family_606.png": [
+   "rejected",
+   "single woman, context does not match the audience"
+  ],
+  "hands_505.png": [
+   "rejected",
+   "young woman in a leather dress instead of elderly hands"
+  ],
+  "hands_606.png": [
+   "rejected",
+   "clothing and context do not match the audience"
+  ]
+ },
+ "note": "Prompts in scenes_v3.json are the final versions; earlier rounds used weaker clothing constraints (see REPORT_V3.md). Generated images are not stored in git."
+}

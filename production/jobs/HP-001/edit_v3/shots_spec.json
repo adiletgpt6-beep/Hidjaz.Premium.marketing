@@ -1,0 +1,92 @@
+[
+ {
+  "id": "a02",
+  "kind": "img",
+  "src": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v3/gen/gift_101.png",
+  "n": 74,
+  "zoom": [
+   1.08,
+   1.13
+  ],
+  "center": [
+   0.42,
+   0.5
+  ]
+ },
+ {
+  "id": "a03",
+  "kind": "packshot",
+  "n": 46,
+  "items": [
+   {
+    "src": "leather",
+    "x": 0.5,
+    "base": 0.7,
+    "width": 700
+   }
+  ],
+  "floor": 0.69,
+  "zoom": [
+   1.0,
+   1.03
+  ]
+ },
+ {
+  "id": "a05",
+  "kind": "img",
+  "src": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v3/gen/parents_505.png",
+  "n": 144,
+  "zoom": [
+   1.0,
+   1.07
+  ],
+  "center": [
+   0.5,
+   0.36
+  ]
+ },
+ {
+  "id": "a07",
+  "kind": "img",
+  "src": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v3/gen/dawn_606.png",
+  "n": 66,
+  "zoom": [
+   1.0,
+   1.05
+  ],
+  "center": [
+   0.45,
+   0.62
+  ]
+ },
+ {
+  "id": "a09",
+  "kind": "packshot",
+  "n": 168,
+  "items": [
+   {
+    "src": "ivory",
+    "x": 0.27,
+    "base": 0.6,
+    "width": 400
+   },
+   {
+    "src": "leather",
+    "x": 0.73,
+    "base": 0.6,
+    "width": 400
+   },
+   {
+    "src": "box",
+    "x": 0.5,
+    "base": 0.69,
+    "width": 480
+   }
+  ],
+  "floor": 0.585,
+  "zoom": [
+   1.05,
+   1.0
+  ]
+ }
+]
