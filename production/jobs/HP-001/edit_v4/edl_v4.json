@@ -1,0 +1,241 @@
+{
+ "shots": [
+  {
+   "id": "b01",
+   "a": 0.0,
+   "b": 1.75,
+   "type": "comp",
+   "still": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v4/set_ivory.png",
+   "zoom": [
+    1.0,
+    1.035
+   ],
+   "center": [
+    0.5,
+    0.55
+   ],
+   "n": 52
+  },
+  {
+   "id": "b02",
+   "a": 1.75,
+   "b": 6.0,
+   "type": "spk",
+   "piece": "H",
+   "z": [
+    1.12,
+    1.18
+   ],
+   "n": 128
+  },
+  {
+   "id": "b03",
+   "a": 6.0,
+   "b": 8.47,
+   "type": "img",
+   "still": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v4/scene_gift.png",
+   "zoom": [
+    1.08,
+    1.12
+   ],
+   "center": [
+    0.42,
+    0.52
+   ],
+   "n": 74
+  },
+  {
+   "id": "b04",
+   "a": 8.47,
+   "b": 10.0,
+   "type": "comp",
+   "still": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v4/set_leather.png",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "center": [
+    0.5,
+    0.55
+   ],
+   "n": 46
+  },
+  {
+   "id": "b05",
+   "a": 10.0,
+   "b": 14.7,
+   "type": "spk",
+   "piece": "L3",
+   "z": [
+    1.1,
+    1.16
+   ],
+   "n": 141
+  },
+  {
+   "id": "b06",
+   "a": 14.7,
+   "b": 18.95,
+   "type": "img",
+   "still": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v4/scene_parents.png",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "center": [
+    0.5,
+    0.36
+   ],
+   "n": 127
+  },
+  {
+   "id": "b07",
+   "a": 18.95,
+   "b": 21.31,
+   "type": "spk",
+   "piece": "L5a",
+   "z": [
+    1.14,
+    1.19
+   ],
+   "n": 71
+  },
+  {
+   "id": "b08",
+   "a": 21.31,
+   "b": 23.45,
+   "type": "comp",
+   "still": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v4/set_duo.png",
+   "zoom": [
+    1.04,
+    1.0
+   ],
+   "center": [
+    0.5,
+    0.55
+   ],
+   "n": 65
+  },
+  {
+   "id": "b09",
+   "a": 23.45,
+   "b": 24.65,
+   "type": "spk",
+   "piece": "L6a",
+   "z": [
+    1.08,
+    1.11
+   ],
+   "n": 36
+  },
+  {
+   "id": "b10",
+   "a": 24.65,
+   "b": 30.5,
+   "type": "comp",
+   "still": "/tmp/claude-0/-home-user-Hidjaz-Premium-marketing/30c305ee-30a4-5a0b-95a5-64e5306d0f5d/scratchpad/v4/set_trio.png",
+   "zoom": [
+    1.06,
+    1.0
+   ],
+   "center": [
+    0.5,
+    0.6
+   ],
+   "n": 175
+  }
+ ],
+ "pieces": [
+  {
+   "id": "H",
+   "src_in": 16.84,
+   "src_out": 22.5,
+   "out_in": 0.0,
+   "out_out": 5.66,
+   "gain_db": -0.93,
+   "gap": 0.4,
+   "note": "А вы когда-нибудь задумывались, какой подарок действительно принесёт пользу вашему близкому человеку? (take 16.9s, continuous, no splice)"
+  },
+  {
+   "id": "L2a",
+   "src_in": 140.36,
+   "src_out": 141.1,
+   "out_in": 6.06,
+   "out_out": 6.8,
+   "gain_db": 0.26,
+   "gap": 0.0,
+   "note": "Представьте,  (take 140.4s; 0.76s hesitation trimmed, hidden under B-roll)"
+  },
+  {
+   "id": "L2b",
+   "src_in": 141.58,
+   "src_out": 144.24,
+   "out_in": 6.8,
+   "out_out": 9.46,
+   "gain_db": 0.26,
+   "gap": 0.6,
+   "note": "вы дарите не просто книгу, а священный Коран."
+  },
+  {
+   "id": "L3",
+   "src_in": 311.0,
+   "src_out": 315.08,
+   "out_in": 10.06,
+   "out_out": 14.14,
+   "gain_db": 1.79,
+   "gap": 0.7,
+   "note": "Подарок, к которому человек будет возвращаться снова и снова. (take 311.0s)"
+  },
+  {
+   "id": "L4",
+   "src_in": 158.52,
+   "src_out": 161.66,
+   "out_in": 14.84,
+   "out_out": 17.98,
+   "gain_db": -0.46,
+   "gap": 0.9,
+   "note": "Для родителей, для любимых, для самых дорогих людей. (take 158.5s)"
+  },
+  {
+   "id": "L5a",
+   "src_in": 334.45,
+   "src_out": 336.88,
+   "out_in": 18.88,
+   "out_out": 21.31,
+   "gain_db": -0.25,
+   "gap": 0.0,
+   "note": "Подарите то, что будет напоминать о вас с (take 333.9s; start moved past the audible inhale at 333.92-334.11)"
+  },
+  {
+   "id": "L5b",
+   "src_in": 337.4,
+   "src_out": 339.06,
+   "out_in": 21.31,
+   "out_out": 22.97,
+   "gain_db": -0.25,
+   "gap": 0.5,
+   "note": "каждой прочитанной страницей. (0.52s hesitation trimmed, hidden under B-roll)"
+  },
+  {
+   "id": "L6a",
+   "src_in": 340.14,
+   "src_out": 341.33,
+   "out_in": 23.47,
+   "out_out": 24.66,
+   "gain_db": 6.38,
+   "gap": 0.0,
+   "note": "Напишите нам в WhatsApp, и (take 340.1s)"
+  },
+  {
+   "id": "L6b",
+   "src_in": 341.7,
+   "src_out": 344.34,
+   "out_in": 24.648,
+   "out_out": 27.288,
+   "gain_db": 6.38,
+   "gap": 0.0,
+   "note": "мы подберём для вас подходящий Коран. (0.37s pause trimmed at the shot change)"
+  }
+ ],
+ "gain_db": 11.170000000000002
+}

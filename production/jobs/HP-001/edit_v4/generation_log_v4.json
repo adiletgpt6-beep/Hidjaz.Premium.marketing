@@ -1,0 +1,34 @@
+{
+ "plates_attempted": [
+  {
+   "file": "window_71.png",
+   "model": "Realistic Vision V6",
+   "verdict": "rejected and deleted immediately: model inserted a nude person despite 'no people'"
+  },
+  {
+   "file": "window_81.png",
+   "model": "SD 1.5",
+   "verdict": "rejected: wide room, table too far for a believable product scale"
+  },
+  {
+   "file": "window_82.png",
+   "model": "SD 1.5",
+   "verdict": "rejected: broken table geometry, cheap look"
+  },
+  {
+   "file": "window_close_91.png",
+   "model": "SD 1.5",
+   "verdict": "rejected: top-down view, perspective cannot match the frontal product photo"
+  },
+  {
+   "file": "walnut_5.png",
+   "model": "SD 1.5",
+   "verdict": "ACCEPTED as a wood TEXTURE only; the table set is built procedurally around the real product"
+  }
+ ],
+ "scenes_reused_from_V3": [
+  "gift_101 (Real-ESRGAN x4 + lanczos blend)",
+  "parents_505 (Real-ESRGAN x4 + lanczos blend)"
+ ],
+ "upscaler": "Heliosoph/realesrgan-onnx realesr-general-x4v3 (BSD-3), used only on generated scenes, never on product pixels"
+}
